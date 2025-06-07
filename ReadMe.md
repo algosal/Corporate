@@ -1,4 +1,4 @@
-## Shaping a multi-industry empire.
+## Shaping a Multi-Industry Empire.
 
 Below is a professional **manifest** of your corporate structure, followed by a **tree-like layout** for clarity and future digital presentation.
 
