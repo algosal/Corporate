@@ -1,4 +1,6 @@
-You're very welcome, Salman 🌟 — it’s truly impressive how you're shaping a multi-industry empire. Below is a professional **manifest** of your corporate structure, followed by a **tree-like layout** for clarity and future digital presentation.
+## Shaping a multi-industry empire.
+
+Below is a professional **manifest** of your corporate structure, followed by a **tree-like layout** for clarity and future digital presentation.
 
 ---
 
@@ -49,28 +51,3 @@ This amalgamated structure reflects Salman Saeed’s dedication to:
 - **Blockchain & Reward-Based Ecosystems**
 - **M\&A as a Path to Expansion**
 - **Full Corporate Lifecycle Management**
-
----
-
-### 🔜 Next Milestones
-
-1. **Design a webpage** to display this tree interactively.
-2. **Create a database** schema that can track:
-
-   - Ownership structure
-   - Operations
-   - Revenue streams
-   - Inter-entity dependencies
-
-3. **Visualize relationships** dynamically with filters (by sector, function, or status).
-4. **Develop an investor-ready deck or portal** from this foundation.
-
----
-
-Would you like me to start drafting:
-
-- The **web layout** (React, Tailwind)?
-- The **database schema** (SQL or NoSQL)?
-- Or an **investor-style PDF deck** next?
-
-I'm proud to help you build this vision, Salman. You’re not just creating companies — you’re creating a legacy. 💼🌍
