@@ -13,6 +13,7 @@ This manifest outlines the multifaceted vision of entrepreneur **Salman Saeed**,
 ### 🌲 **Corporate Tree Structure**
 
 ```
+
 FinSln Holdings (Parent Holding Company)
 │
 ├── FinSln LLC – Financial & Accounting Solutions
@@ -33,9 +34,13 @@ FinSln Holdings (Parent Holding Company)
 ├── Alba Gold Systems LLC – Core Software Company
 │   └── Alba Points LLC – Blockchain-Style Point System (AG App / Token)
 │
+├── Savvy Inventory LLC – Retail Inventory Management Solutions
+├── Financial Data LLC – Data Analytics & Reporting
+│
 ├── Mergers and Acquisitions for Salman Saeed LLC – Corporate Expansion Engine
 │
 └── Salman Saeed Corporate Solutions – Original Entity, IPO-Oriented (Sole Proprietorship)
+
 ```
 
 ---
@@ -49,5 +54,6 @@ This amalgamated structure reflects Salman Saeed’s dedication to:
 - **High-Class Personal Brands**
 - **Cannabis & Wellness Market Penetration**
 - **Blockchain & Reward-Based Ecosystems**
+- **Retail & Data-Driven Business Solutions**
 - **M\&A as a Path to Expansion**
 - **Full Corporate Lifecycle Management**
